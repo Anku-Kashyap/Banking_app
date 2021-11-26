@@ -1,11 +1,4 @@
-"""
-This code is written by :
 
-1. 19BCE237 - Sakshi Sanghavi
-2. 19BCE238 - Harshil Sanghvi
-3. 19BCE245 - Aayush Shah
-
-"""
 
 import os  # for creating directories Admin/Customer if it is not exists.
 from datetime import date  # for date of account creation when new customer account is created.
